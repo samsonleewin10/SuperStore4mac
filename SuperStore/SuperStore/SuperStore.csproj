@@ -260,6 +260,9 @@
     <Content Include="Views\Records\Details.cshtml" />
     <Content Include="Views\Records\Edit.cshtml" />
     <Content Include="Views\Records\Index.cshtml" />
+    <Content Include="Images\SurfaceBook.png" />
+    <Content Include="Images\SurfacePro.png" />
+    <Content Include="Images\SurfaceStudio.png" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
