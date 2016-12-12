@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{EE88E139-2103-4306-A65A-5F16001A57D6}|">
+  <MonoDevelop.Ide.ItemProperties.SuperStore PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SuperStore/Views/Home/Index.cshtml">
+    <Files>
+      <File FileName="SuperStore/Models/Record.cs" Line="13" Column="9" />
+      <File FileName="SuperStore/Views/Shared/_Layout.cshtml" Line="19" Column="71" />
+      <File FileName="SuperStore/Views/Home/Index.cshtml" Line="41" Column="7" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
